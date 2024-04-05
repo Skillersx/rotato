@@ -29,12 +29,12 @@ export default function Home() {
         />
  
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-evenly', width: '80vw' }}>
-          <a href="" target="_blank" rel="noreferrer">
+          <a href="https://www.pump.fun/D1B7wS2MLJFd7UwbUZb9QhR1e4HDm7VXyqEUKHRrcsv4" target="_blank" rel="noreferrer">
             <button style={{ height: '6vh', width: '20vw' }}>
               Buy
             </button>
           </a>
-          <a href="" target="_blank" rel="noreferrer">
+          <a href="https://twitter.com/rotatosol" target="_blank" rel="noreferrer">
             <button style={{ height: '6vh', width: '20vw' }}>
               X/Twitter
             </button>
